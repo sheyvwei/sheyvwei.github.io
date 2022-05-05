@@ -1,2 +1,4 @@
-http://example.com/2022/05/03/hello-world/
-http://example.com/
+https://sheyvwei.github.io/2022/05/05/VueJs%E8%A7%86%E9%A2%91/
+https://sheyvwei.github.io/2022/05/05/Vue%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/
+https://sheyvwei.github.io/2022/05/03/hello-world/
+https://sheyvwei.github.io/

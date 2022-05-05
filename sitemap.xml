@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/05/03/hello-world/</loc>
+    <loc>https://sheyvwei.github.io/2022/05/05/VueJs%E8%A7%86%E9%A2%91/</loc>
+    
+    <lastmod>2022-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sheyvwei.github.io/2022/05/05/Vue%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/</loc>
+    
+    <lastmod>2022-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sheyvwei.github.io/2022/05/03/hello-world/</loc>
     
     <lastmod>2022-05-03</lastmod>
     
@@ -12,8 +30,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-05-03</lastmod>
+    <loc>https://sheyvwei.github.io/</loc>
+    <lastmod>2022-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
